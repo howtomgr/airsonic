@@ -1,0 +1,61 @@
+{
+  "category": "music-servers",
+  "created_date": "2025-09-15T22:48:57.128041",
+  "default_ports": [
+    80,
+    443,
+    4040
+  ],
+  "dependencies": [],
+  "description": "airsonic is a free and open-source free music streaming server. Fork of Subsonic, Airsonic provides personal music streaming, serving as a FOSS alternative to proprietary options",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/music-servers/airsonic",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/music-servers/airsonic",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.128066",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "airsonic",
+  "repository_url": "https://github.com/howtomgr/airsonic",
+  "spec_version": "2.0",
+  "subcategory": "music-servers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "music-servers",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "airsonic Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/music-servers/airsonic"
+}
